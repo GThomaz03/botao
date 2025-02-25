@@ -1,0 +1,41 @@
+tela{
+    perfil
+    click atual
+    melhor score
+    botão
+    chance 
+    ranking 
+    numero de chances restante do dia
+    numero de chances restante compradas
+    comprar chances
+    escolher tema
+    ad
+}
+
+db{
+    login(email, senha, etc)
+    chances no dia
+    chances compradas
+    melhor score
+    apelido publico
+    descricao perfil
+    tema escolhido
+}
+
+funcionalidades{
+    logar    
+    perfil
+    recuperar senha
+    ranking
+    comprar chances
+    mudar tema
+    perks para comprar
+}
+
+tecnologias{
+    backend: java spring
+    frontend: next (para rodar no servidor, não no cliente)
+    database: qualquer um
+    domínio: hostigator botao.fun ou botao.tech
+    hospedagem: azure back 
+}
