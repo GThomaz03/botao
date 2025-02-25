@@ -30,6 +30,7 @@ funcionalidades{
     comprar chances
     mudar tema
     perks para comprar
+    clicar com o mouse ou uma tecla que pode ser escolhida
 }
 
 tecnologias{
